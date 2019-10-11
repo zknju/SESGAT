@@ -1,7 +1,7 @@
 # SESGAT
 A Semantic Subgraph Based Link Prediction Method for Heterogeneous Social Networks with Graphic Attention Network
 
-UU_matrix.csv is the adjacency matrix
+UU_matrix_v1.csv is the adjacency matrix
 
 ULU_matrix.csv is the meta path M1 based adjacency matrix
 
